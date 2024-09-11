@@ -1,0 +1,27 @@
+.container{
+    height: 220px;
+    width: 250px;
+    color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    border-radius: 15px;
+    background-color: rgb(88, 119, 110);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    width: 25px;
+    height: 25px;
+    margin: 8px 3px;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid #ecf0f1;
+    border-radius: 5px;
+    text-align: center;
+    color: green;
+    background: transparent;
+}
